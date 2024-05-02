@@ -1,0 +1,76 @@
+/* for each */
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+p, ul li, ol li {
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+.headingOne {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+/* main */
+#bodymain {
+    background-color: rgb(238, 235, 232);
+}
+
+.main {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(102, 140, 14);
+}
+
+/* lasagna */
+#bodylasagna {
+    background-color: rgb(154, 128, 90);
+}
+
+.headingOne.lasagna, .headingTwo.lasagna {
+    color: rgb(47, 8, 75);
+}
+
+.li-lasagna, .p-lasagna {
+    color: rgb(213, 213, 208);
+}
+
+/* honey glazed chicken */
+#bodyhoney {
+    background-color: rgba(114, 83, 42, 0.865);
+}
+
+.headingOne.honey, .headingTwo.honey {
+    color: whitesmoke;
+}
+
+.li-honey, .p-honey {
+    color: rgb(192, 191, 191);
+}
+
+/* sausages and */
+#sausage {
+    background-color: rgb(238, 235, 232);
+}
+
+.headingOne.sausage, .headingTwo.sausage {
+    color: darkolivegreen;
+}
+
+.li-sausage, .p-sausage {
+    color: rgb(74, 73, 73);
+}
+
+.imageSausage {
+    width: 780px;
+    height: auto;
+}
